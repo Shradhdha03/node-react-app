@@ -10,6 +10,8 @@ To build React UI for distributing, you can run
 
 To setup express backend, you can run 
 
+### `cd .. `
+
 ### `npm install `
 
 ### `npm start`
