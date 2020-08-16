@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and express.
 
-In the project directory, you can run to build React UI for distribution:
+To build React UI for distributing, you can run 
 
 ### `cd .\client\`
 
@@ -8,13 +8,14 @@ In the project directory, you can run to build React UI for distribution:
 
 ### `npm run build`
 
-In the project directory, you can run to setup express backend:
+To setup express backend, you can run 
 
 ### `npm install `
 
 ### `npm start`
 
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
 
 
 Docker image - simple build (362MB)
