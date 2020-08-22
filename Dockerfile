@@ -12,6 +12,6 @@ RUN npm install
 # builing React UI
 RUN cd client && npm install && npm run build
 
-EXPOSE 3001
+EXPOSE 3005
 
 CMD ["node","index.js"]

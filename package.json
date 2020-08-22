@@ -1,7 +1,7 @@
 {
   "name": "nodeapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "hello docker",
   "main": "index.js",
   "scripts": {
     "start":"node index.js",
